@@ -2,7 +2,7 @@
 
 Collection of a few data science projects to practice streamlit library for python
 
-## List of app
+## List of apps
 
 1. Stock price 01
 
