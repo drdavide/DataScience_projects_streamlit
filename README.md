@@ -5,6 +5,7 @@ Collection of a few data science projects to practice streamlit library for pyth
 ## List of apps
 
 1. Stock price 01
+2. Bioinformatics DNA count
 
 ### To run the apps
 
