@@ -8,7 +8,12 @@ Collection of a few data science projects to practice streamlit library for pyth
 2. Bioinformatics DNA count
 3. NBA statistics
 4. S&P 500 stock prices
+5. Crypto price monitor
 
 ### To run the apps
 
 streamlit run APP_NAME.py
+
+#### Source
+
+https://youtu.be/JwSS70SZdyM
